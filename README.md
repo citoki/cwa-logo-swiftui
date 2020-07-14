@@ -4,6 +4,7 @@ Corona-Warn-App Logo with SwiftUI
 
 ## Demo
 
-| Screenshot | Movie |
-|------------|-------|
-|![screenshot](./docs/screenshot.png)|![movie](./docs/movie.gif)|
+| Sample       | Screenshot | Movie |
+|--------------|------------|-------|
+|CWA Logo      |![screenshot](./docs/screenshot.png)|![movie](./docs/movie.gif)|
+|CWA Virus Logo|![screenshot](./docs/virus-logo.png)|![movie](./docs/virus-logo.gif)|

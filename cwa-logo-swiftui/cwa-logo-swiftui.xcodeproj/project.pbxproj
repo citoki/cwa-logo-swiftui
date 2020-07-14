@@ -7,19 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		309CD0F324BC7CEB00C27E38 /* VirusLogoGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309CD0F224BC7CEB00C27E38 /* VirusLogoGradient.swift */; };
+		309CD0F524BCA2D900C27E38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309CD0F424BCA2D900C27E38 /* ContentView.swift */; };
 		30F4432324B6FFEC0049E8DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F4432224B6FFEC0049E8DC /* AppDelegate.swift */; };
 		30F4432524B6FFEC0049E8DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F4432424B6FFEC0049E8DC /* SceneDelegate.swift */; };
-		30F4432724B6FFEC0049E8DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F4432624B6FFEC0049E8DC /* ContentView.swift */; };
+		30F4432724B6FFEC0049E8DC /* CwaLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F4432624B6FFEC0049E8DC /* CwaLogoView.swift */; };
 		30F4432924B6FFEF0049E8DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30F4432824B6FFEF0049E8DC /* Assets.xcassets */; };
 		30F4432C24B6FFEF0049E8DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30F4432B24B6FFEF0049E8DC /* Preview Assets.xcassets */; };
 		30F4432F24B6FFEF0049E8DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30F4432D24B6FFEF0049E8DC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		309CD0F224BC7CEB00C27E38 /* VirusLogoGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirusLogoGradient.swift; sourceTree = "<group>"; };
+		309CD0F424BCA2D900C27E38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		30F4431F24B6FFEC0049E8DC /* cwa-logo-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cwa-logo-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		30F4432224B6FFEC0049E8DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		30F4432424B6FFEC0049E8DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		30F4432624B6FFEC0049E8DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		30F4432624B6FFEC0049E8DC /* CwaLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CwaLogoView.swift; sourceTree = "<group>"; };
 		30F4432824B6FFEF0049E8DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30F4432B24B6FFEF0049E8DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30F4432E24B6FFEF0049E8DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +62,9 @@
 			children = (
 				30F4432224B6FFEC0049E8DC /* AppDelegate.swift */,
 				30F4432424B6FFEC0049E8DC /* SceneDelegate.swift */,
-				30F4432624B6FFEC0049E8DC /* ContentView.swift */,
+				30F4432624B6FFEC0049E8DC /* CwaLogoView.swift */,
+				309CD0F424BCA2D900C27E38 /* ContentView.swift */,
+				309CD0F224BC7CEB00C27E38 /* VirusLogoGradient.swift */,
 				30F4432824B6FFEF0049E8DC /* Assets.xcassets */,
 				30F4432D24B6FFEF0049E8DC /* LaunchScreen.storyboard */,
 				30F4433024B6FFEF0049E8DC /* Info.plist */,
@@ -147,8 +153,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				30F4432324B6FFEC0049E8DC /* AppDelegate.swift in Sources */,
+				309CD0F524BCA2D900C27E38 /* ContentView.swift in Sources */,
 				30F4432524B6FFEC0049E8DC /* SceneDelegate.swift in Sources */,
-				30F4432724B6FFEC0049E8DC /* ContentView.swift in Sources */,
+				309CD0F324BC7CEB00C27E38 /* VirusLogoGradient.swift in Sources */,
+				30F4432724B6FFEC0049E8DC /* CwaLogoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
